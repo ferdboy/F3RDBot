@@ -39,7 +39,7 @@ exports.menu = (id, A187, corohelp, tampilTanggal, tampilWaktu, instagram, nomer
 ║│3. *#quran*
 ║│4. *#pantun*
 ║│5. *#nama* <nama anda>
-║│6. *#pasangan* <Maslent & Chichi>
+║│6. *#pasangan* <Ferdi & Hinata>
 ║│7. *#lirik* <nama lagu>
 ║│8. *#chord* <nama lagu> <kunci gitar>
 ║╰───────────
@@ -97,6 +97,6 @@ exports.menu = (id, A187, corohelp, tampilTanggal, tampilWaktu, instagram, nomer
 ║│ _${nomer}_
 ║╰───────────
 ╠════════════════════
-║ _*PEMBUAT BY BANGLENT*_
+║ _*PEMBUAT BY FERDIARDIAN*_
 ╚════════════════════`
 }
