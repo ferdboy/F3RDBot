@@ -8,12 +8,12 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾BANGLENT👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_maslent11'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+628165466368'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/E8VriS0ojj53PX5wkhPYaD'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://youtu.be/pRTmMIfkfT0'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '👾F3RD BOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/ferdi_ardian21'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6282169369877'; // JANGAN UBAH-UBAH INFO!!!
+const aktif = '24 Jam'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'https://chat.whatsapp.com/GQRkuhH34C80Y6JWwG3xXl'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'Nothing'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -145,10 +145,10 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner BANGLENT wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner FERDI wa.me/+6282169369877* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator BANGLENT wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator FERDI wa.me/+6282169369877* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
 conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
