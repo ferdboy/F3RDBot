@@ -10,10 +10,8 @@ exports.menu = (id, A187, corohelp, tampilTanggal, tampilWaktu, instagram, nomer
 ⏱️ *${tampilWaktu}*
 📢 Bot Aktif ; *${aktif}*
          ───
- MAU IKLAN GRUB CONTAK OWNER
-  💸💸SELL SC VIPUL 5K💸💸
-  ⚠️PENGAJARAN SAMPE BISA ⚠️
-  OWNER BY : _BANGLENT_
+
+  OWNER BY : _FERDIARDIAN_
   
   UNTUK MEMASUKAN BOT KE GRUB
   CHAT AE OWNER : _${nomer}_
