@@ -14,15 +14,15 @@ exports.info = (id, A187, corohelp, tampilTanggal, tampilWaktu, instagram, nomer
 ╔════════════════════
 ║ *About ${A187}*
 ╠════════════════════
-║   *🦇HALLO KAKAK🦇*
+║   *🦇HALLO BRE🦇*
 ╠════════════════════
 ╠════════════════════
-║ *OWNER BY : MASLENT 
-║  *CREATOR BY : CHICHI CEWE GW
+║ *OWNER BY : FERDI ARDIAN
+║  *CREATOR BY : FERDI ARDIAN
 ╠════════════════════
-║├≽️⚜ *SEMANGAT*: _Chichi ID
-║├≽️⚜ *DESIGNER*: _BangLent ID_
-║├≽️⚜ *KONTAK GW*: _0816-5466-368
+║├≽️⚜ *SEMANGAT*: All
+║├≽️⚜ *DESIGNER*: _Ferdi Ardian_
+║├≽️⚜ *KONTAK GW*: _0821-6936-9877
 ╠════════════════════
 ╠════════════════════
 ║  *${A187}*
@@ -38,6 +38,6 @@ exports.info = (id, A187, corohelp, tampilTanggal, tampilWaktu, instagram, nomer
 ║│ _${nomer}_
 ║╰───────────
 ╠════════════════════
-║ _*MADE BY BANGLENT ID*_
+║ _*MADE BY FERDI ARDIAN*_
 ╚════════════════════`
 }
